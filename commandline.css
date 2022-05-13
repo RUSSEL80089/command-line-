@@ -1,0 +1,10 @@
+        * {
+            background-color: black;
+            color: rgb(6, 248, 6);
+        }
+        
+        h1 {
+            color: blue;
+            font-family: Times New Roman;
+            text-align: center;
+        }
